@@ -15,7 +15,7 @@ export default function Home() {
                 }}
             >
                 <h1 style={{ color: "white", fontSize: "40px" }}>
-                    Glyza MAe Maligao
+                    Glyza Mae Maligao
                 </h1>
             </div>
         </>
